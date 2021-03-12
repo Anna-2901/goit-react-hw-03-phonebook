@@ -29,7 +29,7 @@ class ContactForm extends Component {
       name: '',
       number: ''
     })
-  } 
+  }
     render() {
         return (
              <form className={s.form}
